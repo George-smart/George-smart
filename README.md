@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/George_smart01" target="blank"><img src="https://img.shields.io/twitter/follow/George_smart01?logo=twitter&style=for-the-badge" alt="George_smart01" /></a> </p>
 
-- 🔭 Currently working on [30-Days-Of-JavaScript](https://github.com/George-smart/30-Days-Of-JavaScript)
+- 🔭 Currently working on [100DaysOfCodingChallenge](https://github.com/George-smart/100DaysOfCoding)
 
 - 🌱 I’m currently learning **Javascript**
 
